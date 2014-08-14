@@ -1,0 +1,10 @@
+[package]
+
+name = "gmail"
+version = "0.0.0"
+authors = [ "Kevin Combriat <japan.combriat.kevin@gmail>" ]
+
+
+[dependencies.openssl]
+
+git = "https://github.com/sfackler/rust-openssl.git"
